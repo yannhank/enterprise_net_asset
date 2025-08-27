@@ -1,0 +1,6 @@
+dnspython
+requests
+openpyxl
+argparse
+pymysql
+pathlib
